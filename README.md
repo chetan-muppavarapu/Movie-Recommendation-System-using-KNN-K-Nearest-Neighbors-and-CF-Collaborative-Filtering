@@ -9,6 +9,7 @@ The project follows a complete data mining lifecycle, including exploratory data
 ## Dataset
 
 **MovieLens Dataset**
+
 Source: GroupLens Research  
 The dataset contains user IDs, movie IDs, ratings, and timestamps. Due to the large number of users and movies, the user–item matrix is highly sparse, making it suitable for collaborative filtering techniques.
 
